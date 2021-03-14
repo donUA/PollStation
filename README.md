@@ -1,2 +1,2 @@
 # PollStation
-Polling System Python
+A Polling System used to learn python
